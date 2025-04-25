@@ -43,12 +43,6 @@ The goal is to support Aerofit's marketing and product positioning strategy usin
 Explore the interactive dashboard here:  
 👉 [Aerofit Dashboard on Tableau Public](https://public.tableau.com/app/profile/gargi.mishra4995/viz/AerofitDashbaord/Dashboard1)
 
-You can also preview it below:
-
-[![Aerofit Dashboard Preview](assets/aerofit_dashboard_preview.png)](https://public.tableau.com/app/profile/gargi.mishra4995/viz/AerofitDashbaord/Dashboard1)
-
-> _Click the image to open the interactive dashboard in Tableau Public._
-
 ---
 
 ## 💡 Insights
