@@ -10,9 +10,9 @@ The goal is to support Aerofit's marketing and product positioning strategy usin
 
 ## 📊 Key Objectives
 
-- Understand customer distribution across age, income, education, and fitness levels
-- Compare product preferences by gender, marital status, and usage behavior
-- Identify segments for targeted marketing based on product affinity
+- Understand customer distribution across age, income, education, and fitness levels  
+- Compare product preferences by gender, marital status, and usage behavior  
+- Identify segments for targeted marketing based on product affinity  
 
 ---
 
@@ -21,33 +21,46 @@ The goal is to support Aerofit's marketing and product positioning strategy usin
 - **Source:** Provided as part of a data science learning module  
 - **Format:** CSV  
 - **Fields:**
-  - `Product`: Treadmill model purchased (KP281, KP481, KP781)
-  - `Age`, `Income`, `Education`, `Fitness`, `Usage`, `Miles`
-  - `Gender`, `MaritalStatus`
+  - `Product`: Treadmill model purchased (KP281, KP481, KP781)  
+  - `Age`, `Income`, `Education`, `Fitness`, `Usage`, `Miles`  
+  - `Gender`, `MaritalStatus`  
 
 ---
 
 ## 📈 Visualizations Used
 
-- Donut charts for categorical distributions (Product, Gender, Marital Status)
-- KDE and Histogram plots for numerical feature distributions
-- Boxplots to compare Income and Age across Products
-- Heatmaps and stacked bar charts for segmented preferences
-- Pairplot for correlation overview among numeric features
+- Donut charts for categorical distributions (Product, Gender, Marital Status)  
+- KDE and Histogram plots for numerical feature distributions  
+- Boxplots to compare Income and Age across Products  
+- Heatmaps and stacked bar charts for segmented preferences  
+- Pairplot for correlation overview among numeric features  
+- 📊 **Interactive Tableau Dashboard** for dynamic exploration  
+
+---
+
+## 🔗 Tableau Dashboard
+
+Explore the interactive dashboard here:  
+👉 [Aerofit Dashboard on Tableau Public](https://public.tableau.com/app/profile/gargi.mishra4995/viz/AerofitDashbaord/Dashboard1)
+
+You can also preview it below:
+
+[![Aerofit Dashboard Preview](assets/aerofit_dashboard_preview.png)](https://public.tableau.com/app/profile/gargi.mishra4995/viz/AerofitDashbaord/Dashboard1)
+
+> _Click the image to open the interactive dashboard in Tableau Public._
 
 ---
 
 ## 💡 Insights
 
-- **KP781** is preferred by high-income, fitness-conscious users — ideal for premium marketing
-- **KP281** suits younger and price-sensitive customers
-- Product choice is influenced by **gender and marital status** — demographic targeting can be enhanced
+- **KP781** is preferred by high-income, fitness-conscious users — ideal for premium marketing  
+- **KP281** suits younger and price-sensitive customers  
+- Product choice is influenced by **gender and marital status** — demographic targeting can be enhanced  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python (Pandas, Seaborn, Matplotlib)
-- Jupyter/Colab Notebook
-
----
+- Python (Pandas, Seaborn, Matplotlib)  
+- Tableau Public  
+- J
